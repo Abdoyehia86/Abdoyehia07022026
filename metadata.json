@@ -1,0 +1,5 @@
+{
+  "name": "Part Lifecycle Explorer",
+  "description": "An intelligent Excel processor that uses Gemini Search Grounding to find product links, lifecycle status, and datasheet URLs for electronic parts across specified websites.",
+  "requestFramePermissions": []
+}
